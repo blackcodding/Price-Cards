@@ -1,4 +1,4 @@
-# Price-Comparison-Table 💸💲💸
+# Price-Comparison-Table
 
 - A Responsive Price Comparison Table with simple Animation.
 - An Attractive and Responsive UI.
